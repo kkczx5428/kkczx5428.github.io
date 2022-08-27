@@ -102,4 +102,6 @@ theme: flex-block
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/kkczx5428/kkczx5428.github.io.git
+  branch: main
